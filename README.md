@@ -5,6 +5,8 @@ Code for analyses used in "Abundant non-canonical DNA viruses in seawater reveal
 
 
 Genetic code and gene prediction:
+
+Script file:
 run_prodigal_gencode_est.py
 
 Command:
