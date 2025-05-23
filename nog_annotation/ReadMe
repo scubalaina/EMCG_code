@@ -4,14 +4,11 @@ NOG HMM profiles were combined from bacteria, archaea, eukarya, and viruses.
 
 
 Initial HMM search command run on each SAG individually with a maximum E value of 10^-5:
-
 hmmsearch -E 0.00001 --tblout ${SAG}_hmm_tbl.txt nog.hmm ${faa}
-
 HMM table outputs (_hmm_tbl.txt) are placed in a single directory.
 
 
 Parsing was completed in two steps for efficiency due to large size of outputs.
-
 Parsing: parse_nog_hmmtbl.py
 
 Each _hmm_tbl.txt table is filtered for a protein's best hit to the NOG HMM profiles based on highest bitscore.
