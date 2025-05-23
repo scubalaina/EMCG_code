@@ -1,3 +1,21 @@
-Scripts to annotate, parse, and tally proteins hits to EggNOG HMM profiles (v5).
+Scripts to annotate, parse, and tally proteins hits to EggNOG (NOG) HMM profiles (v5).
 
-HMM profiles were combined from bacteria, archaea, eukarya, and viruses.
+NOG HMM profiles were combined from bacteria, archaea, eukarya, and viruses.
+
+
+Initial HMM search command run on each SAG individually with a maximum E value of 10^-5:
+
+hmmsearch -E 0.00001 --tblout ${SAG}_hmm_tbl.txt nog.hmm ${faa}
+
+HMM table outputs (_hmm_tbl.txt) are placed in a single directory.
+
+
+Parsing was completed in two steps for efficiency due to large size of outputs.
+
+Parsing: parse_nog_hmmtbl.py
+
+Each _hmm_tbl.txt table is filtered for a protein's best hit to the NOG HMM profiles based on highest bitscore.
+Output files (_nog_parsed.tsv) for each SAG are placed in a single directory.
+
+Joining: join_nog_parsed.py
+Concatenates each _nog_parsed.tsv table from each SAG into a single file. Two files are produced. One with all hits and one with a minimum bitscore of 30, a threshold determiend by Roux et al 2017 PeerJ.
