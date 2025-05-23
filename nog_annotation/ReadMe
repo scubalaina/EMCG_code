@@ -1,0 +1,3 @@
+Scripts to annotate, parse, and tally proteins hits to EggNOG HMM profiles (v5).
+
+HMM profiles were combined from bacteria, archaea, eukarya, and viruses.
