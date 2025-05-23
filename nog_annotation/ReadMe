@@ -1,5 +1,4 @@
 Scripts to annotate, parse, and tally proteins hits to EggNOG (NOG) HMM profiles (v5).
-
 NOG HMM profiles were combined from bacteria, archaea, eukarya, and viruses.
 
 
@@ -10,7 +9,6 @@ HMM table outputs (_hmm_tbl.txt) are placed in a single directory.
 
 Parsing was completed in two steps for efficiency due to large size of outputs.
 Parsing: parse_nog_hmmtbl.py
-
 Each _hmm_tbl.txt table is filtered for a protein's best hit to the NOG HMM profiles based on highest bitscore.
 Output files (_nog_parsed.tsv) for each SAG are placed in a single directory.
 
