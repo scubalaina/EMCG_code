@@ -1,4 +1,4 @@
-import os, sys, re
+import os, sys, re, argparse
 from collections import defaultdict
 
 #  python 1_parse_nog_hmm.py microcap_capsuleA1_nog_out/ microcap_capsuleA1_nog_parsedvir/ nog_annotation_virupdated.tsv
