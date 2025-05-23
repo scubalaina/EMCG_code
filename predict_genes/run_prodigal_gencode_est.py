@@ -1,4 +1,4 @@
-import os, re, sys, shlex, subprocess, shutil
+import os, re, sys, shlex, subprocess, shutil, argparse
 from Bio import SeqIO
 
 args_parser = argparse.ArgumentParser(description="Script for running prodigal on SAGs", epilog="Bigelow Laboratory for Ocean Sciences")
