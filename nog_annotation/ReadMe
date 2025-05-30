@@ -2,7 +2,8 @@ Scripts to annotate, parse, and tally proteins hits to EggNOG (NOG) HMM profiles
 NOG HMM profiles were combined from bacteria, archaea, eukarya, and viruses.
 
 
-Initial HMM search command run on each SAG individually with a maximum E value of 10^-5:
+Initial HMM search run via NextFlow: 1_nog_hmmsearch.nf (with a nextflow.config file)
+Command within NextFlow script run on each SAG individually with a maximum E value of 10^-5:
 hmmsearch -E 0.00001 --tblout ${SAG}_hmm_tbl.txt nog.hmm ${faa}
 HMM table outputs (_hmm_tbl.txt) are placed in a single directory.
 
