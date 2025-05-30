@@ -14,3 +14,7 @@ Output files (_nog_parsed.tsv) for each SAG are placed in a single directory.
 
 Joining: join_nog_parsed.py
 Concatenates each _nog_parsed.tsv table from each SAG into a single file. Two files are produced. One with all hits ({dataset_label}_nog_parsed.tsv) and one with a minimum bitscore of 30 (({dataset_label}_nog_parsed_min30bit.tsv), a threshold determiend by Roux et al 2017 PeerJ.
+
+Tallying domain hits: tally_dom_hits.py
+Generates a tab-seperated table with each row corresponding to a SAG and the columns corresponding to a taxon/entity or group (e.g. "cellular_hits".
+The "cellular_hits" column is used to calculate the proprotion of cellular genes in the SAG later used to determine whether the SAG is cellular or viral
