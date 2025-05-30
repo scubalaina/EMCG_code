@@ -1,1 +1,7 @@
+Scripts for detecting viral contigs and compiling results.
+
+Script: 1_run_vs2_dvf.nf
+Nextflow script where each SAG's nucleotide fasta file is run through VirSorter2 and DeepVirFinder.
+
+Script: 2_parse_virouts.py
 
