@@ -1,7 +1,7 @@
 import os, sys, re, argparse
 from collections import defaultdict
 
-#  python 1_parse_nog_hmm.py -i microcap_capsuleA1_nog_out/ -o microcap_capsuleA1_nog_parsedvir/ -n nog_annotation_virupdated.tsv
+#  python parse_nog_hmm.py -i microcap_capsuleA1_nog_out/ -o microcap_capsuleA1_nog_parsedvir/ -n nog_annotation_virupdated.tsv
 
 args_parser = argparse.ArgumentParser(description="Script for running prodigal on SAGs", epilog="Bigelow Laboratory for Ocean Sciences")
 args_parser.add_argument('-i', '--indir', required=True, help='Input directory of individual tab-seperated HMMsearch output tables file with _hmm_tbl.txt suffix')
