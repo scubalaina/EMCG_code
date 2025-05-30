@@ -1,5 +1,8 @@
 Genetic code prediction and gene files via prodigal
 
 Script: run_prodigal_gencode_est.py
-Runs all genetic codes available on prodigal (['1', '2', '3', '4', '5', '6', '9', '10', '11', '12', '13', '14', '15', '16', '21', '22', '23', '24', '25']) and selects best code based on coding density. If the coding density is greater than or equal to 80% with code 11, then it reports genes from code 11 to prevent overprediction of short genes.
+Runs prodigal on each genome individually with all genetic codes (['1', '2', '3', '4', '5', '6', '9', '10', '11', '12', '13', '14', '15', '16', '21', '22', '23', '24', '25']) and selects best code based on coding density. If the coding density is greater than or equal to 80% with code 11, then it reports genes from code 11 to prevent overprediction of short genes.
+Reports best code in a table and deposits the open reading frame nucleotide sequences (_orf_nucl.fna) and amino acid sequences (.faa)
+
+Command:
 python run_prodigal_gencode_est.py -i {input_fasta_dir}/ -o (output_genes_dir)/ -f {sample_genetic_code.tsv}
