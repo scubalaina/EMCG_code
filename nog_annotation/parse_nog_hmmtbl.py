@@ -23,10 +23,7 @@ acc2virdom = {}
 
 EVALUE = 0.00001
 
-if os.path.isdir(infolder):
-	pass
-else:
-	os.mkdir(infolder)
+
 
 if os.path.isdir(outfolder):
 	pass
