@@ -27,8 +27,7 @@ if outdir.endswith("/"):
 else:
 	outdir = outdir + "/"
 
-indir = sys.argv[1]
-outdir = sys.argv[2]
+
 outfile = open(outfile_name,'a')
 codes = ['1', '2', '3', '4', '5', '6', '9', '10', '11', '12', '13', '14', '15', '16', '21', '22', '23', '24', '25']
 
