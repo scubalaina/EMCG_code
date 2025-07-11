@@ -3,8 +3,8 @@ import pandas as pd
 from collections import defaultdict
 
 args_parser = argparse.ArgumentParser(description="Script for running prodigal on SAGs", epilog="Bigelow Laboratory for Ocean Sciences")
-args_parser.add_argument('-i', '--infile', required=True, help='Input directory of parsed HMM tables with suffix _nog_parsed.tsv .')
-args_parser.add_argument('-l', '--label', required=True, help='Label for output merged files with suffixes _nog_parsed.tsv and _nog_parsed_minbit30.tsv.')
+args_parser.add_argument('-i', '--infile', required=True, help='Input directory of parsed HMM tables with suffix _nog_parsed_min30bit.tsv .')
+args_parser.add_argument('-l', '--outfile', required=True, help='Outfile name for domain tally values.')
 
 args_parser = args_parser.parse_args()
 
@@ -20,6 +20,7 @@ sagdomcount.reset_index(inplace=True)
 sagdomcount.columns = ["genome","domain","genes"]
 sagdom_wide = sagdomcount.pivot(values = "genes", index=["genome"], columns = ["domain"])
 sagdom_wide.reset_index(inplace=True)
-sagdom_wide["cellular_hits"]  = sagdom_wide["Archaea"] + sagdom_wide["Bacteria"] + sagdom_wide["Eukarya"]
+sagdom_wide["cell_gen"]  = sagdom_wide["Archaea"] + sagdom_wide["Bacteria"] + sagdom_wide["Eukarya"]
+sagdom_wide.columns = ["genome","arch_gen","bact_gen","euk_gen","vir_gen","cell_gen"]
 sagdom_wide.to_csv(outfile,sep="\t",index=False)
 
