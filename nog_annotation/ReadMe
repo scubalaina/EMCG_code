@@ -18,4 +18,4 @@ Concatenates each _nog_parsed.tsv table from each SAG into a single file. Two fi
 
 Tallying domain hits: 3_tally_dom_hits.py
 Generates a tab-seperated table with each row corresponding to a SAG and the columns corresponding to a taxon/entity or group (e.g. "cellular_hits".
-The "cellular_hits" column is used to calculate the proprotion of cellular genes in the SAG later used to determine whether the SAG is cellular or viral
+The "cellular_hits" column is used to calculate the proprotion of cellular genes in the SAG later used to determine whether the SAG is cellular or viral.
