@@ -1,0 +1,253 @@
+protein	accession	bitscore	evalue	description	category	domain	virdom
+Capsule1_11200222_c10_1	COG3914	184.2	6e-56	O-linked N-acetylglucosamine transferase SPINDLY family	O	Bacteria	Bacteria
+Capsule1_11200222_c10_2	2RS9Y	818.8	9.3e-248	ATP synthase subunit	S	Eukarya	Eukarya
+Capsule1_11200222_c10_3	COG1981	163.3	5.9e-50	membrane	S	Bacteria	Bacteria
+Capsule1_11200222_c10_4	KOG1321	308.3	1.2e-93	ferrochelatase activity	H	Eukarya	Eukarya
+Capsule1_11200222_c10_5	KOG2872	276.4	7.9e-84	uroporphyrinogen decarboxylase activity	H	Eukarya	Eukarya
+Capsule1_11200222_c10_6	COG1806	310.3	1.6e-94	Bifunctional serine threonine kinase and phosphorylase involved in the regulation of the	L	Bacteria	Bacteria
+Capsule1_11200222_c10_7	COG0424	146.9	1.3e-44	maF-like protein	D	Bacteria	Bacteria
+Capsule1_11200222_c42_1	KOG0734	562.0	3.1e-170	ATP-dependent peptidase activity	O	Eukarya	Eukarya
+Capsule1_11200222_c10_9	COG0237	27.2	2.4e-08	dephospho-CoA kinase activity	H	Bacteria	Bacteria
+Capsule1_11200222_c27_1	2QQ7V	94.2	6.8e-29	Tetrapyrrole (Corrin/Porphyrin) Methylases	H	Eukarya	Eukarya
+Capsule1_11200222_c11_5	COG0254	92.9	1.4e-28	rRNA binding	J	Bacteria	Bacteria
+Capsule1_11200222_c35_2	KOG1697	49.6	8.3e-15	structural constituent of ribosome	J	Eukarya	Eukarya
+Capsule1_11200222_c12_8	COG0556	782.9	3.5e-237	nucleotide-excision repair	L	Bacteria	Bacteria
+Capsule1_11200222_c12_6	2ZBQD	233.9	9.3e-72	TIGRFAM YtoQ family protein	S	Bacteria	Bacteria
+Capsule1_11200222_c12_7	arCOG01130	433.5	8.8e-132	PFAM Aminotransferase class I and II	E	Archaea	Archaea
+Capsule1_11200222_c12_4	KOG1502	184.5	5.1e-56	dihydrokaempferol 4-reductase activity	GM	Eukarya	Eukarya
+Capsule1_11200222_c12_5	KOG4039	135.2	4.6e-41	angiogenesis	GM	Eukarya	Eukarya
+Capsule1_11200222_c12_2	309ZE	155.1	2.8e-47	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c12_3	arCOG02600	86.1	3.5e-26	transcriptional regulators	K	Archaea	Archaea
+Capsule1_11200222_c12_1	COG3660	38.7	1.1e-11	Nucleoside-diphosphate-sugar epimerase	M	Bacteria	Bacteria
+Capsule1_11200222_c20_5	KOG0814	63.1	2.9e-19	sulfur dioxygenase activity	U	Eukarya	Eukarya
+Capsule1_11200222_c20_4	arCOG01972	34.5	2.1e-10	Thioredoxin	O	Archaea	Archaea
+Capsule1_11200222_c3_9	COG0201	551.2	2.4e-167	protein transport	U	Bacteria	Bacteria
+Capsule1_11200222_c3_8	arCOG01046	182.6	1e-55	Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP. Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism	F	Archaea	Archaea
+Capsule1_11200222_c20_1	arCOG00177	265.9	8.6e-81	transport systems ATPase components	G	Archaea	Archaea
+Capsule1_11200222_c20_3	arCOG06625	48.4	1e-14	Branched-chain amino acid transport	S	Archaea	Archaea
+Capsule1_11200222_c20_2	arCOG04452	187.4	3.6e-57	branched-chain amino acid permease (azaleucine resistance)	E	Archaea	Archaea
+Capsule1_11200222_c3_3	COG0564	197.6	4.2e-60	pseudouridine synthase activity	J	Bacteria	Bacteria
+Capsule1_11200222_c3_2	COG0321	202.0	1.3e-61	lipoyl(octanoyl) transferase activity	H	Bacteria	Bacteria
+Capsule1_11200222_c3_1	COG2239	309.4	1.2e-93	Acts as a magnesium transporter	P	Bacteria	Bacteria
+Capsule1_11200222_c3_7	COG0099	167.7	5.5e-51	Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits	J	Bacteria	Bacteria
+Capsule1_11200222_c3_6	COG0100	203.7	1.5e-62	Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine-Dalgarno cleft in the 70S ribosome	J	Bacteria	Bacteria
+Capsule1_11200222_c3_5	COG0202	338.2	2e-102	RNA polymerase activity	K	Bacteria	Bacteria
+Capsule1_11200222_c3_4	KOG3280	159.3	2.7e-48	structural constituent of ribosome	J	Eukarya	Eukarya
+Capsule1_11200222_c22_3	KOG1207	106.0	2.1e-32	L-xylulose reductase (NAD+) activity	V	Eukarya	Eukarya
+Capsule1_11200222_c10_8	arCOG01033	256.6	5.6e-78	Involved in the biosynthesis of the chorismate, which leads to the biosynthesis of aromatic amino acids. Catalyzes the reversible NADPH linked reduction of 3-dehydroshikimate (DHSA) to yield shikimate (SA)	E	Archaea	Archaea
+Capsule1_11200222_c22_1	KOG1238	309.3	7.6e-94	flavin adenine dinucleotide binding	E	Eukarya	Eukarya
+Capsule1_11200222_c37_1	KOG2311	124.2	6.7e-38	mitochondrial tRNA wobble uridine modification	D	Eukarya	Eukarya
+Capsule1_11200222_c3_25	COG0090	406.6	7.5e-124	One of the primary rRNA binding proteins. Required for association of the 30S and 50S subunits to form the 70S ribosome, for tRNA binding and peptide bond formation. It has been suggested to have peptidyltransferase activity	J	Bacteria	Bacteria
+Capsule1_11200222_c1_9	2SCPH	176.8	3.4e-54	Transcription elongation factor, GreA/GreB, C-term	S	Eukarya	Eukarya
+Capsule1_11200222_c6_6	KOG1715	74.3	3.8e-23	structural constituent of ribosome	J	Eukarya	Eukarya
+Capsule1_11200222_c25_1	COG3164	109.2	4.3e-33	Protein of unknown function	D	Bacteria	Bacteria
+Capsule1_11200222_c6_4	KOG1715	1825.1	0.0	structural constituent of ribosome	J	Eukarya	Eukarya
+Capsule1_11200222_c6_5	COG0085	1626.5	0.0	RNA polymerase activity	K	Bacteria	Bacteria
+Capsule1_11200222_c8_8	2ZSP6	54.2	1.9e-16	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c6_3	COG0048	224.4	6.4e-69	Interacts with and stabilizes bases of the 16S rRNA that are involved in tRNA selection in the A site and with the mRNA backbone. Located at the interface of the 30S and 50S subunits, it traverses the body of the 30S subunit contacting proteins on the other side and probably holding the rRNA structure together. The combined cluster of proteins S8, S12 and S17 appears to hold together the shoulder and platform of the 30S subunit	J	Bacteria	Bacteria
+Capsule1_11200222_c6_1	KOG0465	116.2	2.3e-35	translation elongation factor activity	J	Eukarya	Eukarya
+Capsule1_11200222_c8_4	33709	22.7	6.3e-07	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c8_6	32ZI9	39.9	4.6e-12	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c8_7	33NF1	228.6	1.6e-69	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c8_1	335AT	228.7	3.2e-70	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c8_3	33V7I	38.5	1.6e-11	SnoaL-like domain	O	Bacteria	Bacteria
+Capsule1_11200222_c3_22	COG0092	339.2	1.3e-103	Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation	J	Bacteria	Bacteria
+Capsule1_11200222_c3_23	COG0091	111.0	1.3e-33	The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome	J	Bacteria	Bacteria
+Capsule1_11200222_c3_20	arCOG00785	50.2	2.9e-15	Belongs to the universal ribosomal protein uL29 family	J	Archaea	Archaea
+Capsule1_11200222_c3_21	COG0197	200.3	1.7e-61	Binds 23S rRNA and is also seen to make contacts with the A and possibly P site tRNAs	J	Bacteria	Bacteria
+Capsule1_11200222_c27_2	arCOG01021	53.2	3.1e-16	COG0683 ABC-type branched-chain amino acid transport systems, periplasmic component	E	Archaea	Archaea
+Capsule1_11200222_c27_3	2QQ7V	91.2	5.5e-28	Tetrapyrrole (Corrin/Porphyrin) Methylases	H	Eukarya	Eukarya
+Capsule1_11200222_c3_24	COG0185	150.6	4.6e-46	Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA	J	Bacteria	Bacteria
+Capsule1_11200222_c28_2	COG3839	110.6	1.5e-33	Belongs to the ABC transporter superfamily	P	Bacteria	Bacteria
+Capsule1_11200222_c29_4	arCOG00159	57.3	2e-17	COG0395 ABC-type sugar transport system permease component	P	Archaea	Archaea
+Capsule1_11200222_c29_5	COG3833	21.4	1.5e-06	ABC-type maltose transport systems, permease component	P	Bacteria	Bacteria
+Capsule1_11200222_c2_8	2QUI2	96.3	5e-29	acetyl-CoA carboxylase activity	I	Eukarya	Eukarya
+Capsule1_11200222_c11_2	4QCFA	47.4	2.4e-14	coenzyme binding	S	Virus	Virus
+Capsule1_11200222_c33_1	KOG2565	231.1	3.6e-70	cis-stilbene-oxide hydrolase activity	O	Eukarya	Eukarya
+Capsule1_11200222_c29_1	COG3833	21.4	1.5e-06	ABC-type maltose transport systems, permease component	P	Bacteria	Bacteria
+Capsule1_11200222_c29_2	arCOG00159	57.3	2e-17	COG0395 ABC-type sugar transport system permease component	P	Archaea	Archaea
+Capsule1_11200222_c33_2	COG0280	134.5	9e-41	phosphate acetyltransferase	C	Bacteria	Bacteria
+Capsule1_11200222_c14_4	arCOG01296	159.3	1.9e-48	Thioredoxin reductase	C	Archaea	Archaea
+Capsule1_11200222_c14_5	KOG3309	142.3	3.9e-43	2 iron, 2 sulfur cluster binding	C	Eukarya	Eukarya
+Capsule1_11200222_c14_6	COG5524	98.9	3.2e-30	PFAM Rhodopsin	S	Bacteria	Bacteria
+Capsule1_11200222_c14_1	2S876	134.5	4e-41	Prokaryotic dksA/traR C4-type zinc finger	T	Eukarya	Eukarya
+Capsule1_11200222_c14_2	COG3217	132.8	2.8e-40	Mosc domain protein beta barrel domain protein	C	Bacteria	Bacteria
+Capsule1_11200222_c14_3	KOG0867	138.5	2e-42	Belongs to the GST superfamily	O	Eukarya	Eukarya
+Capsule1_11200222_c31_2	2QPUH	196.7	8.4e-60	Creatinase/Prolidase N-terminal domain	E	Eukarya	Eukarya
+Capsule1_11200222_c31_1	KOG1176	52.0	3.7e-17	ligase activity	IQ	Eukarya	Eukarya
+Capsule1_11200222_c11_7	COG0254	92.9	1.4e-28	rRNA binding	J	Bacteria	Bacteria
+Capsule1_11200222_c16_2	2SM9J	82.9	3.1e-25	2-oxopent-4-enoate hydratase activity	Q	Eukarya	Eukarya
+Capsule1_11200222_c16_3	arCOG01998	365.9	4.2e-111	COG0028 Thiamine pyrophosphate-requiring enzymes acetolactate synthase, pyruvate dehydrogenase (cytochrome), glyoxylate carboligase, phosphonopyruvate decarboxylase	H	Archaea	Archaea
+Capsule1_11200222_c16_1	2S9HN	120.9	1e-36	Peptidase family M23	M	Eukarya	Eukarya
+Capsule1_11200222_c3_26	COG0089	83.9	1.2e-25	rRNA binding	J	Bacteria	Bacteria
+Capsule1_11200222_c3_27	KOG1624	37.1	3.1e-11	structural constituent of ribosome	J	Eukarya	Eukarya
+Capsule1_11200222_c21_3	33G7T	20.4	4.9e-06	Abortive infection C-terminus	S	Bacteria	Bacteria
+Capsule1_11200222_c35_1	COG0002	324.2	1.6e-98	Catalyzes the NADPH-dependent reduction of N-acetyl-5- glutamyl phosphate to yield N-acetyl-L-glutamate 5-semialdehyde	E	Bacteria	Bacteria
+Capsule1_11200222_c19_2	COG1457	52.4	4.2e-16	Belongs to the purine-cytosine permease (2.A.39) family	F	Bacteria	Bacteria
+Capsule1_11200222_c13_6	2QS88	124.7	6e-38	ATPase activity	O	Eukarya	Eukarya
+Capsule1_11200222_c13_5	2QRGW	837.2	5.7e-254	iron-sulfur cluster assembly	O	Eukarya	Eukarya
+Capsule1_11200222_c13_4	COG1959	138.4	4.1e-42	2 iron, 2 sulfur cluster binding	K	Bacteria	Bacteria
+Capsule1_11200222_c13_3	COG2945	193.6	4e-59	thiolester hydrolase activity	S	Bacteria	Bacteria
+Capsule1_11200222_c13_2	COG2377	310.2	2.6e-94	Catalyzes the specific phosphorylation of 1,6-anhydro-N- acetylmuramic acid (anhMurNAc) with the simultaneous cleavage of the 1,6-anhydro ring, generating MurNAc-6-P. Is required for the utilization of anhMurNAc either imported from the medium or derived from its own cell wall murein, and thus plays a role in cell wall recycling	F	Bacteria	Bacteria
+Capsule1_11200222_c13_1	COG0162	137.1	1.2e-41	Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr)	J	Bacteria	Bacteria
+Capsule1_11200222_c4_8	2QTES	222.1	9.7e-68	carbonate dehydratase activity	S	Eukarya	Eukarya
+Capsule1_11200222_c4_9	2QQ4U	172.1	2.3e-52	AhpC/TSA family	O	Eukarya	Eukarya
+Capsule1_11200222_c2_6	COG2104	46.9	2.1e-14	thiamine diphosphate biosynthetic process	H	Bacteria	Bacteria
+Capsule1_11200222_c2_7	COG0757	216.4	1.2e-65	Catalyzes a trans-dehydration via an enolate intermediate	E	Bacteria	Bacteria
+Capsule1_11200222_c2_4	COG1530	507.2	7.3e-154	ribonuclease E activity	J	Bacteria	Bacteria
+Capsule1_11200222_c2_5	COG2022	426.0	5e-129	thiamine diphosphate biosynthetic process	H	Bacteria	Bacteria
+Capsule1_11200222_c21_4	COG3665	163.3	1.5e-49	Urea carboxylase-associated protein	K	Bacteria	Bacteria
+Capsule1_11200222_c4_1	COG1638	61.4	1.3e-18	TRAP-type C4-dicarboxylate transport system periplasmic component	G	Bacteria	Bacteria
+Capsule1_11200222_c4_2	arCOG02304	442.9	1.3e-134	L-carnitine dehydratase bile acid-inducible protein F	C	Archaea	Archaea
+Capsule1_11200222_c2_9	KOG0238	681.3	5e-206	CoA carboxylase activity	I	Eukarya	Eukarya
+Capsule1_11200222_c4_4	arCOG00147	93.6	1.4e-28	COG0477 Permeases of the major facilitator superfamily	EGP	Archaea	Archaea
+Capsule1_11200222_c4_5	COG2084	309.1	6.6e-94	Dehydrogenase	I	Bacteria	Bacteria
+Capsule1_11200222_c21_2	arCOG00755	131.9	5.8e-40	COG0665 Glycine D-amino acid oxidases (deaminating)	E	Archaea	Archaea
+Capsule1_11200222_c4_7	3490X	108.1	5.2e-33	isomerase activity	S	Bacteria	Bacteria
+Capsule1_11200222_c11_9	COG0828	70.8	1.1e-21	Belongs to the bacterial ribosomal protein bS21 family	J	Bacteria	Bacteria
+Capsule1_11200222_c11_8	COG3820	275.7	4e-84	Protein conserved in bacteria	S	Bacteria	Bacteria
+Capsule1_11200222_c39_2	2QRW5	260.2	4e-79	oxidoreductase activity	C	Eukarya	Eukarya
+Capsule1_11200222_c11_1	arCOG01622	102.5	5.9e-31	dehydrogenases and related proteins	L	Archaea	Archaea
+Capsule1_11200222_c18_1	COG2081	50.9	2.2e-15	HI0933 family	N	Bacteria	Bacteria
+Capsule1_11200222_c18_2	arCOG00130	60.4	2.7e-18	Major facilitator superfamily	EGP	Archaea	Archaea
+Capsule1_11200222_c18_3	2RTN1	99.8	1.8e-30	Major Facilitator Superfamily	S	Eukarya	Eukarya
+Capsule1_11200222_c18_4	2RTN1	99.8	1.8e-30	Major Facilitator Superfamily	S	Eukarya	Eukarya
+Capsule1_11200222_c18_5	arCOG00130	60.4	2.7e-18	Major facilitator superfamily	EGP	Archaea	Archaea
+Capsule1_11200222_c18_6	COG2081	50.9	2.2e-15	HI0933 family	N	Bacteria	Bacteria
+Capsule1_11200222_c11_6	COG0483	69.2	5.6e-21	inositol monophosphate 1-phosphatase activity	G	Bacteria	Bacteria
+Capsule1_11200222_c28_1	COG0141	499.8	2.6e-151	Catalyzes the sequential NAD-dependent oxidations of L- histidinol to L-histidinaldehyde and then to L-histidine	E	Bacteria	Bacteria
+Capsule1_11200222_c27_5	2SKVD	21.4	2.3e-06	BON domain	L	Eukarya	Eukarya
+Capsule1_11200222_c4_6	COG5135	219.6	3.9e-67	pyridoxamine 5-phosphate	I	Bacteria	Bacteria
+Capsule1_11200222_c9_5	KOG4192	105.1	5.1e-32	pericentric heterochromatin assembly	O	Eukarya	Eukarya
+Capsule1_11200222_c9_4	COG4240	298.0	2.3e-90	helicase activity	V	Bacteria	Bacteria
+Capsule1_11200222_c9_7	2T8MW	98.3	4.6e-30	Peptidase S24-like	S	Eukarya	Eukarya
+Capsule1_11200222_c9_6	arCOG04820	145.0	2.8e-44	PFAM SOUL heme-binding protein	S	Archaea	Archaea
+Capsule1_11200222_c9_1	COG0013	581.6	4.6e-176	Catalyzes the attachment of alanine to tRNA(Ala) in a two-step reaction alanine is first activated by ATP to form Ala- AMP and then transferred to the acceptor end of tRNA(Ala). Also edits incorrectly charged Ser-tRNA(Ala) and Gly-tRNA(Ala) via its editing domain	J	Bacteria	Bacteria
+Capsule1_11200222_c5_10	COG0064	676.9	3.2e-205	Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln)	J	Bacteria	Bacteria
+Capsule1_11200222_c9_3	2SH5M	79.6	2.8e-24	Outer membrane efflux protein	S	Eukarya	Eukarya
+Capsule1_11200222_c9_2	4QASV	321.6	8.6e-98	recA bacterial DNA recombination protein	S	Virus	Virus
+Capsule1_11200222_c48_1	COG1666	124.6	6.1e-38	GTP binding	S	Bacteria	Bacteria
+Capsule1_11200222_c9_9	COG3971	141.2	7.6e-43	2-oxopent-4-enoate hydratase activity	Q	Bacteria	Bacteria
+Capsule1_11200222_c9_8	4QB4K	338.1	1e-102	impB/mucB/samB family C-terminal domain	S	Virus	Virus
+Capsule1_11200222_c4_3	COG1758	97.5	1.1e-29	RNA polymerase activity	K	Bacteria	Bacteria
+Capsule1_11200222_c15_1	KOG2844	739.3	8.5e-224	oxidoreductase activity, acting on the CH-NH group of donors, flavin as acceptor	E	Eukarya	Eukarya
+Capsule1_11200222_c15_2	COG2192	454.1	1.3e-137	nodulation	O	Bacteria	Bacteria
+Capsule1_11200222_c17_3	KOG1687	358.7	1.4e-108	quinone binding	C	Eukarya	Eukarya
+Capsule1_11200222_c17_2	KOG1713	265.9	1.8e-80	NADH dehydrogenase (quinone) activity	C	Eukarya	Eukarya
+Capsule1_11200222_c17_1	KOG2870	356.8	4.1e-108	quinone binding	C	Eukarya	Eukarya
+Capsule1_11200222_c17_5	KOG2004	270.7	4.1e-82	ATP-dependent serine protease that mediates the selective degradation of misfolded, unassembled or oxidatively damaged polypeptides as well as certain short-lived regulatory proteins in the mitochondrial matrix. May also have a chaperone function in the assembly of inner membrane protein complexes. Participates in the regulation of mitochondrial gene expression and in the maintenance of the integrity of the mitochondrial genome. Binds to mitochondrial	O	Eukarya	Eukarya
+Capsule1_11200222_c17_4	COG0838	178.1	2e-54	NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient	C	Bacteria	Bacteria
+Capsule1_11200222_c5_11	arCOG01717	472.8	2.1e-143	Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in organisms which lack glutaminyl-tRNA synthetase. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln)	J	Archaea	Archaea
+Capsule1_11200222_c39_1	KOG2565	55.0	7.3e-17	cis-stilbene-oxide hydrolase activity	O	Eukarya	Eukarya
+Capsule1_11200222_c1_8	COG0408	367.5	6.5e-112	coproporphyrinogen oxidase activity	H	Bacteria	Bacteria
+Capsule1_11200222_c45_1	COG0412	58.0	1.3e-17	Dienelactone hydrolase	Q	Bacteria	Bacteria
+Capsule1_11200222_c11_4	COG3820	275.7	4e-84	Protein conserved in bacteria	S	Bacteria	Bacteria
+Capsule1_11200222_c36_2	2S80R	155.2	4e-47	Bacterial protein of unknown function (DUF924)	S	Eukarya	Eukarya
+Capsule1_11200222_c4_12	COG3333	578.2	1.8e-175	protein conserved in bacteria	C	Bacteria	Bacteria
+Capsule1_11200222_c4_13	331KW	182.2	8.2e-56	Tripartite tricarboxylate transporter TctB family	S	Bacteria	Bacteria
+Capsule1_11200222_c41_1	2S1QZ	159.4	1.9e-48	Soluble lytic murein transglycosylase L domain	M	Eukarya	Eukarya
+Capsule1_11200222_c2_3	COG5009	654.3	3.1e-198	serine-type D-Ala-D-Ala carboxypeptidase activity	M	Bacteria	Bacteria
+Capsule1_11200222_c1_7	COG0219	172.3	8.8e-53	Methylates the ribose at the nucleotide 34 wobble position in the two leucyl isoacceptors tRNA(Leu)(CmAA) and tRNA(Leu)(cmnm5UmAA). Catalyzes the methyl transfer from S- adenosyl-L-methionine to the 2'-OH of the wobble nucleotide	J	Bacteria	Bacteria
+Capsule1_11200222_c5_1	2S57V	143.4	1.1e-43	Staphylococcal nuclease homologue	L	Eukarya	Eukarya
+Capsule1_11200222_c1_6	KOG1671	299.4	1.5e-90	oxidoreductase activity, acting on diphenols and related substances as donors	C	Eukarya	Eukarya
+Capsule1_11200222_c22_2	COG0861	153.2	1.2e-46	Integral membrane protein TerC family	P	Bacteria	Bacteria
+Capsule1_11200222_c4_16	COG3180	81.2	8.7e-25	Ammonia monooxygenase	S	Bacteria	Bacteria
+Capsule1_11200222_c4_14	2S6DS	150.0	1.2e-45	Tripartite tricarboxylate transporter family receptor	S	Eukarya	Eukarya
+Capsule1_11200222_c48_2	30X5M	26.9	6.1e-08	SlyX	S	Bacteria	Bacteria
+Capsule1_11200222_c19_1	COG0187	578.0	3.6e-175	DNA topoisomerase II activity	L	Bacteria	Bacteria
+Capsule1_11200222_c5_3	2QW8R	308.2	1e-93	Rhodanese Homology Domain	S	Eukarya	Eukarya
+Capsule1_11200222_c5_2	arCOG01731	276.9	3.7e-84	COG0534 Na -driven multidrug efflux pump	V	Archaea	Archaea
+Capsule1_11200222_c5_5	337KN	323.9	1.9e-98	Alginate lyase	S	Bacteria	Bacteria
+Capsule1_11200222_c5_4	KOG1663	209.0	9.5e-64	O-methyltransferase activity	P	Eukarya	Eukarya
+Capsule1_11200222_c5_6	2ZGAD	19.6	8.6e-06	Virus attachment protein p12 family	S	Bacteria	Virus
+Capsule1_11200222_c5_9	33V1T	352.7	6e-107	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c5_8	307MI	21.3	3e-06	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c1_2	COG0193	236.7	9.3e-72	aminoacyl-tRNA hydrolase activity	J	Bacteria	Bacteria
+Capsule1_11200222_c47_1	KOG0404	307.5	1.7e-93	thioredoxin-disulfide reductase activity	O	Eukarya	Eukarya
+Capsule1_11200222_c32_3	2ZCH9	187.4	4e-57	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c37_2	COG0445	306.8	4e-93	tRNA wobble uridine modification	D	Bacteria	Bacteria
+Capsule1_11200222_c43_1	COG3800	267.0	4.9e-81	Transcriptional regulator	K	Bacteria	Bacteria
+Capsule1_11200222_c2_18	KOG0888	188.9	2.1e-57	Nucleoside diphosphate kinase	F	Eukarya	Eukarya
+Capsule1_11200222_c2_19	COG0260	508.2	3.5e-154	Presumably involved in the processing and regular turnover of intracellular proteins. Catalyzes the removal of unsubstituted N-terminal amino acids from various peptides	E	Bacteria	Bacteria
+Capsule1_11200222_c27_4	COG0281	90.5	1.7e-27	malic enzyme	C	Bacteria	Bacteria
+Capsule1_11200222_c2_10	COG4765	102.3	2.6e-31	Protein conserved in bacteria	L	Bacteria	Bacteria
+Capsule1_11200222_c2_11	COG3761	131.7	2.9e-40	NADH ubiquinone oxidoreductase 17.2 kD subunit	C	Bacteria	Bacteria
+Capsule1_11200222_c2_13	COG0173	846.1	1.6e-256	Aspartyl-tRNA synthetase with relaxed tRNA specificity since it is able to aspartylate not only its cognate tRNA(Asp) but also tRNA(Asn). Reaction proceeds in two steps L-aspartate is first activated by ATP to form Asp-AMP and then transferred to the acceptor end of tRNA(Asp Asn)	J	Bacteria	Bacteria
+Capsule1_11200222_c2_14	COG0593	63.5	3.3e-19	it binds specifically double-stranded DNA at a 9 bp consensus (dnaA box) 5'-TTATC CA A CA A-3'. DnaA binds to ATP and to acidic phospholipids	L	Bacteria	Bacteria
+Capsule1_11200222_c2_15	32JMS	387.6	8.3e-118	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c2_16	COG0150	406.0	1.8e-123	phosphoribosylformylglycinamidine cyclo-ligase activity	F	Bacteria	Bacteria
+Capsule1_11200222_c2_17	COG0299	207.4	6.3e-63	Catalyzes the transfer of a formyl group from 10- formyltetrahydrofolate to 5-phospho-ribosyl-glycinamide (GAR), producing 5-phospho-ribosyl-N-formylglycinamide (FGAR) and tetrahydrofolate	F	Bacteria	Bacteria
+Capsule1_11200222_c36_1	COG3502	101.0	1e-30	Protein conserved in bacteria	O	Bacteria	Bacteria
+Capsule1_11200222_c44_1	33K6G	23.5	4.8e-07	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c30_3	COG1862	106.8	8.7e-33	Preprotein translocase	U	Bacteria	Bacteria
+Capsule1_11200222_c23_1	COG1452	79.2	7.9e-24	involved in the assembly of lipopolysaccharide (LPS) at the surface of the outer membrane	M	Bacteria	Bacteria
+Capsule1_11200222_c2_20	COG0795	121.0	7.3e-37	lipopolysaccharide-transporting ATPase activity	M	Bacteria	Bacteria
+Capsule1_11200222_c25_2	COG0162	118.9	3.7e-36	Catalyzes the attachment of tyrosine to tRNA(Tyr) in a two-step reaction tyrosine is first activated by ATP to form Tyr- AMP and then transferred to the acceptor end of tRNA(Tyr)	J	Bacteria	Bacteria
+Capsule1_11200222_c3_13	COG0097	207.8	1.7e-63	This protein binds to the 23S rRNA, and is important in its secondary structure. It is located near the subunit interface in the base of the L7 L12 stalk, and near the tRNA binding site of the peptidyltransferase center	J	Bacteria	Bacteria
+Capsule1_11200222_c3_12	COG0256	120.4	8.1e-37	This is one of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance	J	Bacteria	Bacteria
+Capsule1_11200222_c3_11	COG0098	237.1	1.6e-72	Located at the back of the 30S subunit body where it stabilizes the conformation of the head with respect to the body	J	Bacteria	Bacteria
+Capsule1_11200222_c3_10	COG0200	155.7	1.1e-47	Binds to the 23S rRNA	J	Bacteria	Bacteria
+Capsule1_11200222_c3_17	COG0198	79.8	2.2e-24	One of the proteins that surrounds the polypeptide exit tunnel on the outside of the subunit	J	Bacteria	Bacteria
+Capsule1_11200222_c3_16	COG0094	225.9	1.5e-68	This is 1 of the proteins that binds and probably mediates the attachment of the 5S RNA into the large ribosomal subunit, where it forms part of the central protuberance. In the 70S ribosome it contacts protein S13 of the 30S subunit (bridge B1b), connecting the 2 subunits	J	Bacteria	Bacteria
+Capsule1_11200222_c3_15	COG0199	127.7	3.4e-39	Binds 16S rRNA, required for the assembly of 30S particles and may also be responsible for determining the conformation of the 16S rRNA at the A site	J	Bacteria	Bacteria
+Capsule1_11200222_c3_14	COG0096	170.1	2.6e-52	One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit	J	Bacteria	Bacteria
+Capsule1_11200222_c6_2	COG0049	239.8	1.4e-73	tRNA binding	J	Bacteria	Bacteria
+Capsule1_11200222_c3_19	COG0186	109.1	1.7e-33	One of the primary rRNA binding proteins, it binds specifically to the 5'-end of 16S ribosomal RNA	J	Bacteria	Bacteria
+Capsule1_11200222_c3_18	COG0093	197.3	9.9e-61	Binds to 23S rRNA. Forms part of two intersubunit bridges in the 70S ribosome	J	Bacteria	Bacteria
+Capsule1_11200222_c34_2	COG3030	126.2	1.4e-38	protein affecting phage T7 exclusion by the F plasmid	S	Bacteria	Virus
+Capsule1_11200222_c34_3	COG4395	70.0	2.7e-21	Tim44	E	Bacteria	Bacteria
+Capsule1_11200222_c8_9	2ZSP6	26.7	4.5e-08	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c40_1	arCOG00755	169.2	2.7e-51	COG0665 Glycine D-amino acid oxidases (deaminating)	E	Archaea	Archaea
+Capsule1_11200222_c49_1	COG4175	369.4	6.4e-112	Glycine betaine	E	Bacteria	Bacteria
+Capsule1_11200222_c38_2	KOG0549	88.1	8.2e-27	peptidyl-prolyl cis-trans isomerase activity	O	Eukarya	Eukarya
+Capsule1_11200222_c38_1	KOG0549	87.9	9.4e-27	peptidyl-prolyl cis-trans isomerase activity	O	Eukarya	Eukarya
+Capsule1_11200222_c46_1	COG2840	20.6	8.6e-07	Smr protein MutS2	U	Bacteria	Bacteria
+Capsule1_11200222_c46_2	COG1220	283.7	4.1e-86	this subunit has chaperone activity. The binding of ATP and its subsequent hydrolysis by HslU are essential for unfolding of protein substrates subsequently hydrolyzed by HslV. HslU recognizes the N-terminal part of its protein substrates and unfolds these before they are guided to HslV for hydrolysis	O	Bacteria	Bacteria
+Capsule1_11200222_c1_24	KOG3025	76.8	2.3e-23	ATP hydrolysis coupled proton transport	C	Eukarya	Eukarya
+Capsule1_11200222_c1_25	2SZHB	41.5	1.4e-12	ATP synthase B/B' CF(0)	S	Eukarya	Eukarya
+Capsule1_11200222_c1_26	COG0711	19.3	4.2e-06	Component of the F(0) channel, it forms part of the peripheral stalk, linking F(1) to F(0)	C	Bacteria	Bacteria
+Capsule1_11200222_c34_1	COG1952	26.9	4.8e-08	One of the proteins required for the normal export of preproteins out of the cell cytoplasm. It is a molecular chaperone that binds to a subset of precursor proteins, maintaining them in a translocation-competent state. It also specifically binds to its receptor SecA	U	Bacteria	Bacteria
+Capsule1_11200222_c1_20	2TG1J	103.1	2.4e-31	Thioredoxin	O	Eukarya	Eukarya
+Capsule1_11200222_c1_21	KOG0933	299.2	9.2e-91	chromosome condensation	D	Eukarya	Eukarya
+Capsule1_11200222_c1_22	COG5336	85.8	5.8e-26	function for this protein is to guide the assembly of the membrane sector of the ATPase enzyme complex	C	Bacteria	Bacteria
+Capsule1_11200222_c1_23	COG0356	210.2	5.2e-64	it plays a direct role in the translocation of protons across the membrane	C	Bacteria	Bacteria
+Capsule1_11200222_c2_2	COG1186	359.9	4.5e-109	Peptide chain release factor 2 directs the termination of translation in response to the peptide chain termination codons UGA and UAA	J	Bacteria	Bacteria
+Capsule1_11200222_c7_9	COG2759	869.4	1.3e-263	Belongs to the formate--tetrahydrofolate ligase family	H	Bacteria	Bacteria
+Capsule1_11200222_c7_8	2QTCX	118.9	1.6e-36	Glutamine amidotransferase class-I	S	Eukarya	Eukarya
+Capsule1_11200222_c7_7	arCOG00984	322.7	4.9e-98	alcohol dehydrogenase	C	Archaea	Archaea
+Capsule1_11200222_c7_5	arCOG00456	100.2	1.6e-30	Belongs to the NAD-dependent glycerol-3-phosphate dehydrogenase family	C	Archaea	Archaea
+Capsule1_11200222_c7_4	COG0240	68.6	1e-20	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	I	Bacteria	Bacteria
+Capsule1_11200222_c7_3	COG2072	165.8	2e-50	flavoprotein involved in K transport	P	Bacteria	Bacteria
+Capsule1_11200222_c7_2	2SPAJ	99.4	3.8e-30	AraC-like ligand binding domain	S	Eukarya	Eukarya
+Capsule1_11200222_c7_1	COG4176	490.7	9e-149	ABC-type proline glycine betaine transport system permease component	P	Bacteria	Bacteria
+Capsule1_11200222_c24_1	332DV	155.7	1.2e-47	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c26_3	arCOG00271	114.1	1.1e-34	COG0697 Permeases of the drug metabolite transporter (DMT) superfamily	EG	Archaea	Archaea
+Capsule1_11200222_c26_2	arCOG00271	85.9	4.1e-26	COG0697 Permeases of the drug metabolite transporter (DMT) superfamily	EG	Archaea	Archaea
+Capsule1_11200222_c11_3	COG0828	70.8	1.1e-21	Belongs to the bacterial ribosomal protein bS21 family	J	Bacteria	Bacteria
+Capsule1_11200222_c1_5	KOG4663	488.3	8.7e-148	electron transfer activity	C	Eukarya	Eukarya
+Capsule1_11200222_c1_4	KOG3052	321.1	1.7e-97	Cytochrome c1	C	Eukarya	Eukarya
+Capsule1_11200222_c4_10	arCOG01411	168.8	2.8e-51	PFAM Glycosyl transferases group 1	M	Archaea	Archaea
+Capsule1_11200222_c4_11	2SV5D	171.7	3.3e-52	EamA-like transporter family	S	Eukarya	Eukarya
+Capsule1_11200222_c1_1	COG1825	109.8	2.2e-33	This is one of the proteins that binds to the 5S RNA in the ribosome where it forms part of the central protuberance	J	Bacteria	Bacteria
+Capsule1_11200222_c1_13	COG4785	57.2	1.6e-17	May be involved in cell division	E	Bacteria	Bacteria
+Capsule1_11200222_c1_3	COG0012	500.9	8.4e-152	GTP binding	J	Bacteria	Bacteria
+Capsule1_11200222_c4_15	2TBFN	67.7	1.1e-20	Bacterial transcriptional regulator	S	Eukarya	Eukarya
+Capsule1_11200222_c30_1	COG0342	189.0	2e-57	Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA	U	Bacteria	Bacteria
+Capsule1_11200222_c11_11	arCOG01622	102.5	5.9e-31	dehydrogenases and related proteins	L	Archaea	Archaea
+Capsule1_11200222_c11_10	4QCFA	47.4	2.4e-14	coenzyme binding	S	Virus	Virus
+Capsule1_11200222_c24_4	KOG2844	96.9	1.4e-29	oxidoreductase activity, acting on the CH-NH group of donors, flavin as acceptor	E	Eukarya	Eukarya
+Capsule1_11200222_c1_19	COG5389	87.5	1.2e-26	COG5512 Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives	O	Bacteria	Bacteria
+Capsule1_11200222_c1_18	COG1194	290.1	3.3e-88	a g-specific adenine glycosylase	L	Bacteria	Bacteria
+Capsule1_11200222_c8_14	33G0J	50.0	3.5e-15	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c8_15	COG2076	77.7	1.7e-23	Multidrug Resistance protein	P	Bacteria	Bacteria
+Capsule1_11200222_c8_13	32SHN	165.6	4.2e-51	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c8_10	33NF1	217.7	3.2e-66	unknown	S	Bacteria	Bacteria
+Capsule1_11200222_c8_11	arCOG02066	41.7	9.8e-13	PFAM DsrE family protein	O	Archaea	Archaea
+Capsule1_11200222_c30_2	COG0341	61.4	6.8e-19	Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA	U	Bacteria	Bacteria
+Capsule1_11200222_c1_10	COG0617	203.6	8.8e-62	tRNA 3'-terminal CCA addition	J	Bacteria	Bacteria
+Capsule1_11200222_c24_3	KOG2844	285.0	2e-86	oxidoreductase activity, acting on the CH-NH group of donors, flavin as acceptor	E	Eukarya	Eukarya
+Capsule1_11200222_c1_12	COG1947	173.6	8.1e-53	Catalyzes the phosphorylation of the position 2 hydroxy group of 4-diphosphocytidyl-2C-methyl-D-erythritol	F	Bacteria	Bacteria
+Capsule1_11200222_c1_15	COG0164	233.6	2.5e-71	Endonuclease that specifically degrades the RNA of RNA- DNA hybrids	L	Bacteria	Bacteria
+Capsule1_11200222_c1_14	arCOG00905	155.2	2e-47	Uracil-DNA glycosylase	L	Archaea	Archaea
+Capsule1_11200222_c1_17	KOG2614	120.8	7.1e-37	FAD binding	CH	Eukarya	Eukarya
+Capsule1_11200222_c1_16	2SGCR	329.6	4.1e-100	DNA methylase	L	Eukarya	Eukarya
