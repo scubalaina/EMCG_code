@@ -4,12 +4,12 @@ from collections import defaultdict
 
 args_parser = argparse.ArgumentParser(description="Script for running prodigal on SAGs", epilog="Bigelow Laboratory for Ocean Sciences")
 args_parser.add_argument('-i', '--infile', required=True, help='Input directory of parsed HMM tables with suffix _nog_parsed_min30bit.tsv .')
-args_parser.add_argument('-o', '--outfile', required=True, help='Outfile name for domain tally values.')
+args_parser.add_argument('-l', '--label', required=True, help='Outfile name for domain tally values.')
 
 args_parser = args_parser.parse_args()
 
 infile = args_parser.infile
-outfile = args_parser.outfile
+label = args_parser.label
 
 indf = pd.read_csv(infile,sep="\t",header=0,index_col=False)
 outfile = label + "_domain_count.tsv"
