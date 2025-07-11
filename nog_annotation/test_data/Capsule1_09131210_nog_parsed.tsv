@@ -1,0 +1,55 @@
+protein	accession	bitscore	evalue	description	category	domain	virdom
+Capsule1_09131210_c1_18	3163D	33.3	1.6e-10	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_19	33H3H	41.2	7.7e-13	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_18	349YH	89.2	1.1e-27	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_11	3028U	241.7	6.4e-74	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_10	3028U	241.3	8.4e-74	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_13	2ZYF3	18.0	8.6e-06	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_13	32ZB3	126.8	6.2e-39	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_14	3219Y	23.9	1.2e-07	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_15	4QCYX	20.4	1.5e-06		S	Virus	Virus
+Capsule1_09131210_c1_16	COG5519	143.2	7.1e-44	DNA primase	L	Bacteria	Bacteria
+Capsule1_09131210_c1_17	336NG	33.2	2.1e-10	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_30	COG1591	62.2	2.4e-19	pfam vrr-nuc	L	Bacteria	Bacteria
+Capsule1_09131210_c1_31	COG3514	30.2	2.5e-09	BrnA antitoxin of type II toxin-antitoxin system	H	Bacteria	Bacteria
+Capsule1_09131210_c1_36	32QUN	141.5	1.7e-43	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_37	4QB3X	236.5	2.4e-72	VWA-like domain (DUF2201)	S	Virus	Virus
+Capsule1_09131210_c1_38	32H4A	19.7	3e-06	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_39	arCOG04159	47.9	4.8e-15	ATPase activity	S	Archaea	Archaea
+Capsule1_09131210_c3_4	4QHGQ	44.3	5.9e-14		S	Virus	Virus
+Capsule1_09131210_c3_5	31HC8	143.2	3.9e-44	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_19	33WQ8	355.4	1e-108	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_8	2ZYF3	18.0	8.6e-06	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c3_2	4QHMD	37.7	3.4e-12		S	Virus	Virus
+Capsule1_09131210_c2_4	30XNH	18.5	4.6e-06	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_6	COG0234	39.7	1.6e-12	Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter	O	Bacteria	Bacteria
+Capsule1_09131210_c3_8	346ED	24.0	1.1e-07	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_3	349YH	89.2	1.1e-27	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_2	33WQ8	355.4	1e-108	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_2	4QFBI	192.0	6e-59		S	Virus	Virus
+Capsule1_09131210_c1_3	4QD7Q	44.4	8.7e-14	Pfam:Phage_tail_APC	S	Virus	Virus
+Capsule1_09131210_c1_1	3167H	90.8	4.7e-28	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_7	32WMB	108.4	1.7e-33	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_4	2RFGC	17.5	3.9e-06	unknown	S	Eukarya	Eukarya
+Capsule1_09131210_c1_5	COG3675	92.1	1.5e-28	Pfam Lipase (class 3)	I	Bacteria	Bacteria
+Capsule1_09131210_c1_8	2S9YY	52.5	3e-16	unknown	S	Eukarya	Eukarya
+Capsule1_09131210_c1_9	2ZEJD	319.3	2.1e-97	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c4_1	4QFS9	42.9	5.5e-14		S	Virus	Virus
+Capsule1_09131210_c1_41	2ZGX3	20.6	1.9e-06	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c2_15	COG0234	39.7	1.6e-12	Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter	O	Bacteria	Bacteria
+Capsule1_09131210_c1_25	4QDU7	68.9	2.2e-21	Staphylococcal nuclease homologue	S	Virus	Virus
+Capsule1_09131210_c1_24	32UFZ	73.3	7.9e-23	PD-(D/E)XK nuclease superfamily	S	Bacteria	Bacteria
+Capsule1_09131210_c1_27	4QAZF	59.1	4.5e-18	Protein of unknwon function (DUF3310)	S	Virus	Virus
+Capsule1_09131210_c1_20	COG0553	223.5	3.7e-69	Transcription regulator that activates transcription by stimulating RNA polymerase (RNAP) recycling in case of stress conditions such as supercoiled DNA or high salt concentrations. Probably acts by releasing the RNAP, when it is trapped or immobilized on tightly supercoiled DNA. Does not activate transcription on linear DNA. Probably not involved in DNA repair	L	Bacteria	Bacteria
+Capsule1_09131210_c1_23	4QAM4	46.0	2.6e-14		S	Virus	Virus
+Capsule1_09131210_c1_22	arCOG04129	20.0	2.4e-06	Belongs to the eukaryotic ribosomal protein eL21 family	J	Archaea	Archaea
+Capsule1_09131210_c1_29	4QAKM	283.3	2.1e-86	DNA polymerase family A	S	Virus	Virus
+Capsule1_09131210_c4_2	4QFBI	140.3	2.4e-43		S	Virus	Virus
+Capsule1_09131210_c2_17	30XNH	18.5	4.6e-06	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c1_11	32HMY	20.8	1.6e-06	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c3_19	4QHMD	37.7	3.4e-12		S	Virus	Virus
+Capsule1_09131210_c3_16	31HC8	143.2	3.9e-44	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c3_17	4QHGQ	44.3	5.9e-14		S	Virus	Virus
+Capsule1_09131210_c3_13	346ED	24.0	1.1e-07	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c3_10	346YY	35.5	3.8e-11	unknown	S	Bacteria	Bacteria
+Capsule1_09131210_c3_11	346YY	48.2	4.5e-15	unknown	S	Bacteria	Bacteria
