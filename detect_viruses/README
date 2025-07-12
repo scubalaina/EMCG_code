@@ -2,6 +2,15 @@ Scripts for detecting viral contigs and compiling results.
 
 Script: 1_run_vs2_dvf.nf
 Nextflow script where each SAG's nucleotide fasta file is run through VirSorter2 and DeepVirFinder.
+Each SAG's VirSorter2 and DeepVirFinder output is put into their individual folders of outputs within "test_vs2_out" and "test_dvf_out"
 
-Script: 2_parse_virouts.py
+Script: 2_run_checkv.nf
+Nextflow script where each SAG's nucleotide fasta file is run through CheckV.
+Each SAG's CheckV output is deposited into their own folder within "test_checkv_out"
+
+
+Script: 3_parse_virdetect.py
+This combines the results from VirSorter2, DeepVirFinder, and CheckV to determine whether a contig is considered viral based on score thresholds of the different tools that is reported in a single table for contigs off all SAGs (test_contig_viral_results_merge.tsv). This script also calculates the number and total lenght of viral contigs per SAG into a single dataframe (test_sag_virinfo.tsv).  A table with the  length of each SAG's untrimmed contigs  is required as the initiating dataframe (test_untrimmed_contig_lens.tsv). This table can be generated with running the tool seqtk with command comp on a fasta file of all SAG's untrimmed contigs and selecting the first two columns. Then adding headers "contig" and "length".
+
+
 
