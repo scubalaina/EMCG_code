@@ -2,6 +2,9 @@ import pandas as pd
 import os, sys, re
 from Bio import SeqIO
 
+# run by command:
+# python 3_parse_virdetect.py
+
 sag_lens = pd.read_csv("test_untrimmed_contig_lens.tsv",sep="\t",header=0,index_col=False,low_memory=False)
 
 sag_lens["genome"] = sag_lens["contig"].str.split("_").str[0:-1]
