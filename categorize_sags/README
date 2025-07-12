@@ -3,3 +3,13 @@ These scripts use outputs from the nog_annotation and detect_vir analyses to cat
 As inputs, the "nog_anntation" and "detect_vir" workflows must be finished with the following output tables:
 test_domain_count.tsv from "nog_annotation/"
 test_sag_virinfo.tsv from "detect_vir/"
+These files are copied here in the "test_data/" folder.
+
+Categorize script:
+
+python 0_categorize_sags.py -i test_data/test_sag_info.tsv -d test_data/test_domain_count.tsv -v test_data/test_sag_virinfo.tsv
+
+Output:
+test_data/test_sag_info_classified.tsv
+
+This output file contains each SAG's assembly info with teh annotation domain info, virus detection info, and entity categorization column as "entity".
