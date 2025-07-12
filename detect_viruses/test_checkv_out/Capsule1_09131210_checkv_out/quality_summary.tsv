@@ -1,0 +1,5 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+Capsule1_09131210_c1	38301	No	NA	44	12	0	Medium-quality	Genome-fragment	62.29	AAI-based (high-confidence)	0.0	1.0	
+Capsule1_09131210_c2	14238	No	NA	20	10	0	Low-quality	Genome-fragment	23.18	AAI-based (high-confidence)	0.0	1.97	high kmer_freq may indicate large duplication; low-confidence ITR
+Capsule1_09131210_c3	8852	No	NA	24	12	0	Low-quality	Genome-fragment	14.37	AAI-based (high-confidence)	0.0	1.95	high kmer_freq may indicate large duplication; low-confidence ITR
+Capsule1_09131210_c4	3134	No	NA	2	1	0	Low-quality	Genome-fragment	7.23	AAI-based (medium-confidence)	0.0	1.0	

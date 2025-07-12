@@ -1,0 +1,50 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+Capsule1_11200222_c1	21322	No	NA	26	0	21	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c2	18924	No	NA	20	0	17	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c3	14919	No	NA	28	0	26	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c4	13207	No	NA	16	0	14	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c5	10313	No	NA	9	0	6	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c6	10281	No	NA	6	0	6	Low-quality	Genome-fragment	4.0	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+Capsule1_11200222_c7	9113	No	NA	11	0	7	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c8	8941	No	NA	16	0	5	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c9	8901	No	NA	10	0	5	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c10	7898	No	NA	9	0	9	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c11	7518	No	NA	13	0	7	Not-determined	Genome-fragment	NA	NA	0.0	1.96	no viral genes detected; high kmer_freq may indicate large duplication; low-confidence ITR
+Capsule1_11200222_c12	6803	No	NA	8	0	7	Low-quality	Genome-fragment	6.91	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+Capsule1_11200222_c13	4865	No	NA	6	0	4	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c14	4008	No	NA	6	0	5	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c15	3887	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c16	3651	No	NA	4	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c17	3449	No	NA	5	0	5	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c18	3312	No	NA	6	0	6	Not-determined	Genome-fragment	NA	NA	0.0	1.95	no viral genes detected; high kmer_freq may indicate large duplication; low-confidence ITR
+Capsule1_11200222_c19	3178	No	NA	3	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c20	3013	No	NA	5	0	3	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c21	2860	No	NA	4	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c22	2806	No	NA	3	0	3	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c23	2493	No	NA	1	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c24	2440	No	NA	4	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.01	no viral genes detected
+Capsule1_11200222_c25	2325	No	NA	2	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c26	2236	No	NA	4	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.83	no viral genes detected; high kmer_freq may indicate large duplication; low-confidence ITR
+Capsule1_11200222_c27	2127	No	NA	5	0	5	Not-determined	Genome-fragment	NA	NA	0.0	1.02	no viral genes detected
+Capsule1_11200222_c28	2117	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c29	1965	No	NA	5	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.85	no viral genes detected; high kmer_freq may indicate large duplication; low-confidence ITR
+Capsule1_11200222_c30	1913	No	NA	4	0	3	Not-determined	Genome-fragment	NA	NA	0.0	1.02	no viral genes detected; low-confidence ITR
+Capsule1_11200222_c31	1809	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c32	1734	No	NA	3	1	0	Low-quality	Genome-fragment	0.46	HMM-based (lower-bound)	0.0	1.0	
+Capsule1_11200222_c33	1698	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c34	1660	No	NA	4	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.01	no viral genes detected
+Capsule1_11200222_c35	1571	No	NA	3	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c36	1517	No	NA	3	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c37	1487	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c38	1467	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.89	no viral genes detected; high kmer_freq may indicate large duplication; low-confidence ITR
+Capsule1_11200222_c39	1414	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c40	1408	No	NA	2	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.03	no viral genes detected
+Capsule1_11200222_c41	1347	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c42	1325	No	NA	1	0	1	Low-quality	Genome-fragment	0.64	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+Capsule1_11200222_c43	1179	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c44	1105	No	NA	3	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c45	1098	No	NA	1	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c46	1072	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c47	1038	No	NA	1	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+Capsule1_11200222_c48	1021	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.04	no viral genes detected; low-confidence ITR
+Capsule1_11200222_c49	1006	No	NA	1	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.04	no viral genes detected
