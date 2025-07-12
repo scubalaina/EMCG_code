@@ -1,0 +1,1 @@
+These scripts use outputs from the nog_annotation and detect_vir analyses to categorize a SAG as "virus-like", "cell-like", or "undetermined" by starting with a SAG info table that contains assembly summary statistics generated from the standard SCGC assembly workflow.
