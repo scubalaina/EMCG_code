@@ -136,7 +136,7 @@ vircon_len.columns = ["genome","viral_status","sumlen"]
 virlen_wide = vircon_len.pivot(index='genome',columns='viral_status',values='sumlen')
 virlen_wide.fillna(0,inplace=True)
 virlen_wide.reset_index(inplace=True)
-virlen_wide.columns = ["genome","viral_length","nonviral_length"]
+virlen_wide.columns = ["genome","nonviral_length","viral_length"]
 
 
 sagmerge1 = vircon_wide.merge(virlen_wide,on=["genome"],how="left")
