@@ -1,0 +1,17 @@
+Scripts and commands used to cluster virus-like genomes into vOTUs.
+
+Step 1: Run blastn of open reading frame (orf) sequences in genomes against each other.
+
+Step 1a: Make blast database
+makeblastdb -in test_data/test_viruslike_orfs.fna -dbtype nucl -parse_seqids -out test_viruslike_orf_blastdb/test_viruslike_orf_blastdb
+
+Step 1b: Run blastn search of orf sequences against orf database with a max Evalue ov 10-5 and output in tab-delimited format 6
+blastn  -db  test_viruslike_orf_blastdb/test_viruslike_orf_blastdb -query test_data/test_viruslike_orfs.fna -out test_viruslike_orf_blastn.txt -outfmt=6 -evalue 0.00001
+
+Step 2: Parse blastn output table to calculate ANI between genomes and filter for thos with >= 95% across >= 85% coding sequence length (total orf length).
+Need input file with each genome's total orf length. Can be calculated wtih "seqkit stats genome_orf_fastas/*_orf.fasta" and reformatting output into a tab-seperated file with the first column as the genome and the second column as the total orf length.
+
+python 0_parse_blastn.py -i test_data/test_viruslike_orf_blastn.txt -o test_data/test_viruslike_ani.tsv
+
+Step 3: Calculate population membership using networkx in python
+python 1_get_votu_mems.py -i test_data/test_viruslike_ani.tsv -l test_data/test_viruslike
