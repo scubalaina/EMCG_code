@@ -7,5 +7,4 @@ For SAG categorization, follow the analyses of the subfolders in this order:
 2) nog_annotation
 3) detect_viruses
 
-Cluster vOTUs can be done once virus-like SAGs are detected as above.
 Test dataset for vOTU clustering is unrelated to the test data from the above analyses for simplicity.
