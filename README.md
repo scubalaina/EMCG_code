@@ -1,6 +1,6 @@
 # EMCG_code
 
-Code for analyses used in "Abundant non-canonical DNA viruses in seawater revealed by high-throughput single particle sequencing" by Weinheimer et al. 
+Scripts and commands use for analyses of manuscript "Abundant non-canonical DNA viruses in seawater revealed by high-throughput single particle sequencing" by Weinheimer et al. 
 
 For SAG categorization, follow the analyses of the subfolders in this order:
 1) predict_genes
