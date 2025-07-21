@@ -12,6 +12,6 @@ blastn  -db  test_viruslike_orf_blastdb/test_viruslike_orf_blastdb -query test_d
 Step 2: Parse blastn output table to calculate ANI between genomes and filter for thos with >= 95% across >= 85% coding sequence length (total orf length).
 vOTUs are determined by single linkage clustering with these thresholds. Each genome is assigned a vOTU based on this clustering. Singletons receive a vOTU name as well "vOTU_[insert number]" because self-hits are retained.
 Required files: (1) blast output from step 1b (e.g. test_data/test_viruslike_orf_blastn.txt), (2) tab-seperated table with each open reading frame's lengths formatted as specified in example (e.g. test_data/test_orf_lens.tsv)
-python 0_calc_votu.py -i test_data/test_viruslike_orf_blastn.txt -l test_data/test_orf_lens.tsv -n test_data/test
+python calc_votu.py -i test_data/test_viruslike_orf_blastn.txt -l test_data/test_orf_lens.tsv -n test_data/test
 
 Output table: test_data/test_votu_membership.tsv contains first column with genome name and second column with vOTU name
